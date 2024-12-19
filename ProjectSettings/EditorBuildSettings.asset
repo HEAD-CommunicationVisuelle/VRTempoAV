@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Resources/Samples/XR Interaction Toolkit/3.0.6/Starter Assets/DemoScene.unity
+    path: Assets/Samples/XR Interaction Toolkit/3.0.6/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
@@ -15,15 +15,14 @@ EditorBuildSettings:
     path: Assets/Demo/Scenes/BombDemo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Resources/Samples/XR Interaction Toolkit/3.0.6/Hands Interaction
-      Demo/HandsDemoScene.unity
+    path: Assets/Samples/XR Interaction Toolkit/3.0.6/Hands Interaction Demo/HandsDemoScene.unity
     guid: 3ff35cecbcc52cc42945cf531638a60a
-  - enabled: 1
-    path: Assets/ProjetTempoAV/Scenes/JogaBonito-1.unity
-    guid: 283e3d3e6e5624379bd49e22aeb81216
   - enabled: 1
     path: Assets/ProjetTempoAV/Scenes/Credits.unity
     guid: 1a79b8145dcb24d9d9fe4c1ca328f781
+  - enabled: 1
+    path: Assets/ProjetTempoAV/Scenes/JogaBonito-1.unity
+    guid: 283e3d3e6e5624379bd49e22aeb81216
   - enabled: 1
     path: Assets/ProjetTempoAV/Scenes/JogaBonito-2.unity
     guid: a6190a5c8ca2c4cd1b9c6b789bee86c7
